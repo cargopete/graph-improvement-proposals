@@ -4,7 +4,7 @@ Title: Community Allocation of 0.1% of issuance to The Night's Watch
 Authors: Petko Pavlovski <petkopavlovski@gmail.com>, The Night's Watch
 Created: 2026-09-23
 Stage: Draft
-Discussions-To: <forum thread to follow, per editor instruction>
+Discussions-To: <https://forum.thegraph.com/t/gip-0090-community-allocation-of-0-1-of-issuance-to-the-nights-watch/7083>
 Category: Protocol Logic
 Depends-On: GIP-0076, GIP-0088, GIP-0089
 Implementations: https://github.com/nightswatchhq
